@@ -61,13 +61,7 @@ python AdvancedVolumeHandControl.py
 
 ## 📸 Demo
 
-Add screenshots or a GIF here.
-
-Example:
-
-```
-demo.gif
-```
+![Uploading HandGestureDemo.gif…]()
 
 ## 🔮 Future Improvements
 
