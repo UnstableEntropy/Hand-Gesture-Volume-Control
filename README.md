@@ -61,7 +61,7 @@ python AdvancedVolumeHandControl.py
 
 ## 📸 Demo
 
-<img width="638" height="478" alt="HandGestureDemo" src="https://github.com/user-attachments/assets/4a048c18-7f78-4aac-b39a-d5df696f8dc9" />
+<img width="510" height="382" alt="HandGestureDemo" src="https://github.com/user-attachments/assets/7cd1d22a-d74e-4542-bbc6-70acf834d84e" />
 
 
 ## 🔮 Future Improvements
